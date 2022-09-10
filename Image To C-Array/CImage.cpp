@@ -21,7 +21,7 @@ int IMG::getChannels()
 }
 
 IMG::IMG(const char *filename){
-	//stbi_set_flip_vertically_on_load(true);
+	stbi_set_flip_vertically_on_load(true);
 	data = stbi_load(filename, &ImageWidth, &ImageHeight, &ImageChannels, 0);
 }
 
