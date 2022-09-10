@@ -1,0 +1,8 @@
+﻿  CImage.cpp
+c:\users\therealyunix\documents\visual studio 2015\projects\image to c-array\image to c-array\cimage.hpp(30): warning C4091: "static ": Ignoriert auf der linken Seite von "IMG", wenn keine Variable deklariert wurde
+  Code wird generiert...
+  Überspringen... (keine relevanten Änderungen gefunden)
+  CImage.hpp
+Debug\CImage.obj : warning LNK4042: Objekt mehrmals angegeben; zusätzliche Objekte werden ignoriert.
+  Image To C-Array.vcxproj -> C:\Users\TheRealYunix\documents\visual studio 2015\Projects\Image To C-Array\Debug\Image To C-Array.exe
+  Image To C-Array.vcxproj -> C:\Users\TheRealYunix\documents\visual studio 2015\Projects\Image To C-Array\Debug\Image To C-Array.pdb (Partial PDB)

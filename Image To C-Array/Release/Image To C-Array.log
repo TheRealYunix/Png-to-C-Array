@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\therealyunix\documents\visual studio 2015\projects\image to c-array\image to c-array\CImage.hpp(35): warning C4091: "static ": Ignoriert auf der linken Seite von "IMG", wenn keine Variable deklariert wurde
+main.cpp(130): warning C4101: "hButton": Unreferenzierte lokale Variable
+Release\CImage.obj : warning LNK4042: Objekt mehrmals angegeben; zusätzliche Objekte werden ignoriert.
+  Code wird generiert.
+  1 of 331 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Image To C-Array.vcxproj -> C:\Users\TheRealYunix\documents\visual studio 2015\Projects\Image To C-Array\Release\Image To C-Array.exe
+  Image To C-Array.vcxproj -> C:\Users\TheRealYunix\documents\visual studio 2015\Projects\Image To C-Array\Release\Image To C-Array.pdb (Full PDB)
