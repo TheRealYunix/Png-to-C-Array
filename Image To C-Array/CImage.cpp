@@ -1,5 +1,5 @@
 #include "CImage.hpp"
-#include <stb/stb_image.h>
+#include <stb/stb_image.hpp>
 #include <string>
 IMG::IMG() {
 	std::cout << "Konstruktor Called!";
