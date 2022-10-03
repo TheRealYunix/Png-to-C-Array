@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>	//for Writing the C Image file
 
-#include <stb/stb_image.h>
+#include <stb/stb_image.hpp>
 #define STB_IMAGE_IMPLEMENTATION
 
 static class IMG{
